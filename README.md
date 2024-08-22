@@ -64,3 +64,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-lesani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesani-ali&show_icons=true&locale=en&layout=compact" alt="lesani-ali" /></p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lesani-ali&show_icons=true&locale=en" alt="lesani-ali" /></p>
+
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lesani-ali&" alt="lesani-ali" /></p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lesani-ali&label=Profile%20views&color=0e75b6&style=flat" alt="lesani-ali" /></p>
