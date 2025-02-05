@@ -27,7 +27,7 @@
 <h3 align="left">Deep Learning Tools:</h3>
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/hugging-face-icon.svg" alt="huggingface" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Frameworks and Libraries:</h3>
@@ -67,8 +67,8 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesani-ali&show_icons=true&locale=en&layout=compact" alt="lesani-ali" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lesani-ali&show_icons=true&locale=en" alt="lesani-ali" /></p>
+<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lesani-ali&show_icons=true&locale=en" alt="lesani-ali" /></p> -->
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lesani-ali&" alt="lesani-ali" /></p>
+<!-- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lesani-ali&" alt="lesani-ali" /></p> -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lesani-ali&label=Profile%20views&color=0e75b6&style=flat" alt="lesani-ali" /></p>
