@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">AI and Computer Vision Researcher!</h3>
 
-<p align="left"> 
+<div align= "left" style="display: flex; align-items: start; gap: 15px;">
+    <a href="https://www.linkedin.com/in/ali-lesani/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=lesani-ali&label=Profile%20views&color=0e75b6&style=flat" alt="lesani-ali"/> 
-</p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,14 +44,14 @@
     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="40" height="40"/> 
     </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <!-- <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/> 
-    </a> 
+    </a>  -->
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a> 
     <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="VBA" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" alt="VBA" width="40" height="40"/>
     </a>
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
@@ -78,24 +81,18 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<div align= "left" style="display: flex; align-items: center; gap: 15px;">
-    <a href="" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Globe_icon_4.svg" alt="Website" width="52" height="50"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ali-lesani/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-    </a>
-    <a href="mailto:lesani.sh.ali@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-    <!-- <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-    </a> -->
-</div>
+<h3 align="left">📫 Get in Touch:</h3>
+
+- 🌐 Visit my webpage: [https://lesani-ali.github.io](https://lesani-ali.github.io/)
+
+- ✉️ Email: [alesanis@uwaterloo.ca](mailto:alesanis@uwaterloo.ca)
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesani-ali&show_icons=true&locale=en&layout=compact" alt="lesani-ali" /></p>
+
+
+
+
+<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesani-ali&show_icons=true&locale=en&layout=compact" alt="lesani-ali" /></p> -->
 
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lesani-ali&show_icons=true&locale=en" alt="lesani-ali" /></p> -->
 
