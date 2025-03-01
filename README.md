@@ -5,7 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=lesani-ali&label=Profile%20views&color=0e75b6&style=flat" alt="lesani-ali"/> 
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,9 +44,6 @@
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="40"/> 
     </a> 
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png" alt="latex" width="100" height="40"/> 
-    </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a> 
@@ -57,9 +53,11 @@
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
     </a> 
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png" alt="latex" width="100" height="40"/> 
+    </a>
 </p>
 
----
 
 <h3 align="left">AI & Computer Vision:</h3>
 <p align="left"> 
@@ -79,7 +77,6 @@
     </a> 
 </p>
 
----
 
 <h3 align="left">Connect with me:</h3>
 <div align= "left" style="display: flex; align-items: center; gap: 15px;">
@@ -97,7 +94,6 @@
     </a> -->
 </div>
 
----
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesani-ali&show_icons=true&locale=en&layout=compact" alt="lesani-ali" /></p>
 
