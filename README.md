@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">AI and Computer Vision Researcher!</h3>
+<h3 align="center">AI Researcher and ML Engineer!</h3>
 
 <div align= "left" style="display: flex; align-items: start; gap: 30px;">
     <a href="https://www.linkedin.com/in/ali-lesani/" target="_blank">
